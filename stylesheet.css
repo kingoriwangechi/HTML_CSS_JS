@@ -1,0 +1,49 @@
+body{
+    background-color:bisque;
+}
+
+
+
+nav ul{
+    padding: 30px;
+    border-bottom: 2px;
+}
+
+nav ul li{
+    display: inline-block;
+    margin-right: 30px;
+    border: 1px, solid transparent,blue;    
+}
+
+a{
+    color :orange;
+}
+a:hover{
+    color: blueviolet;
+}
+footer {
+
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+.content{
+    padding: 50px;
+    max-width: 900px;
+    margin: 20px auto;
+    
+}
+#feedback ,#name, #email{
+   background-color: antiquewhite ;
+   margin: 1px;
+   
+}
+button{
+    color:blueviolet;
+    position: relative;
+    
+}
+
